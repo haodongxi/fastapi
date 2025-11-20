@@ -6,6 +6,7 @@ name = "tsinghua"
 [packages]
 fastapi = {extras = ["standard"], version = "*"}
 uvicorn = {extras = ["standard"], version = "*"}
+supabase = "*"
 
 [dev-packages]
 
